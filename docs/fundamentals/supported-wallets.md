@@ -136,6 +136,8 @@ The Mnemonic wallet provider is a specialized tool designed for testing purposes
 **Warning:** The Mnemonic wallet provider is strictly for testing and development purposes. It will not function if the active network is set to MainNet. Any accounts used with the Mnemonic wallet should be considered insecure and should never hold MainNet ALGO or ASAs with any real value.
 {% endhint %}
 
+<!-- TODO: Link to guide for integration testing with mnemonic wallet -->
+
 ## Custom Provider
 
 The Custom wallet provider allows developers to integrate wallets that are not natively supported by the library or implement specialized wallet interactions tailored to their application's needs. This flexibility ensures that the library can adapt to new or unique wallet solutions in the Algorand ecosystem. For detailed information on how to implement a custom wallet provider, please see the Custom Provider Guide:
